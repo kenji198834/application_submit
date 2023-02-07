@@ -50,6 +50,8 @@ https://docs.google.com/spreadsheets/d/1rmP90I82xs5cvAsJ6PkkqJbLT9q5nkkwoIGRd-8G
 現在１つの県しか登録できていない状態なので、47の都道府県全てを登録できるようにしたい。
 
 # データベース設計
+  
+  https://github.com/kenji198834/application_submit/blob/main/test.png
 
 # 画面遷移図
 

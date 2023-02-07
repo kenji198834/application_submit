@@ -55,6 +55,7 @@ https://docs.google.com/spreadsheets/d/1rmP90I82xs5cvAsJ6PkkqJbLT9q5nkkwoIGRd-8G
 
 # 画面遷移図
 
+  https://github.com/kenji198834/application_submit/blob/main/text.png
 # 開発環境
 
 ・フロントエンド<br>

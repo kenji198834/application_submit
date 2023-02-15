@@ -14,11 +14,13 @@ https://famous-product-38773.onrender.com
 
 ・Basic認証パスワード: 2222<br>
 ・Basic認証ID: admin<br>
+
 ・ユーザー名: masaya<br>
 ・メールアドレス: test@string.com<br>
 ・パスワード: abcxy10702<br>
+
 ・ユーザー名: kenta<br>
-・メールアドレス: test@text.com
+・メールアドレス: test@text.com<br>
 ・パスワード: abcxy10701
 
 # 利用方法
